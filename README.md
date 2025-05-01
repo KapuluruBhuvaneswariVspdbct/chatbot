@@ -1,4 +1,4 @@
-# 📦 Chatbot with LeetCode Integration
+# 🪄 LEETCODE GENIE
 
 This is a simple socket-based chatbot implemented in C++ using Winsock for Windows. The chatbot listens on a server and responds with C++ solutions to the first 10 LeetCode problems based on user input.
 
